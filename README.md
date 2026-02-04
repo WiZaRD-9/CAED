@@ -32,3 +32,78 @@ below the vertex. Obtain the development of the remaining part of the pyramid.
 dev8. A vertical cylinder of base diameter 45 mm and axis length 60 mm is cut by a plane perpendicular to
 VP and inclined at 50 deg. to HP passing through the centre point of the top face. Draw the
 development of the lateral surface of the cylinder. 
+
+
+
+
+
+ISOMETRIC PROJECTIONS
+1. A sphere of diameter 50 mm rests centrally on top of a cube of sides 50 mm. Draw the
+Isometric projections of the combination of solids.
+
+2. A pentagonal pyramid of base side 30 mm and axis length 60 mm is resting on HP on its
+base with a side of base perpendicular to VP. Draw its isometric projections
+
+3. A hemisphere of 40 mm diameter is supported co-axially on the vertex of a cone of base
+diameter 60 mm and axis length 50 mm. The flat circular face of the hemisphere is facing
+upside. Draw the isometric projection of the combination of solids.
+
+4. The frustum of a square pyramid of base 40 mm, top face 20 mm and height 60 mm rest on
+the centre of the top of a square block of sides 60 mm and height 20 mm. The base edges of
+the pyramid are parallel to the top edges of the square block. Draw the isometric projection
+of the combination of the solids.
+
+5. A square prism of base side - 30 mm and length - 70 mm is resting on its rectangular face on
+top of a square slab side - 70 mm and 25 mm thick. Draw the isometric projection of the
+combination.
+
+6. A cone of base diameter 40 mm and height 50 mm rests centrally over a frustum of a
+pentagonal pyramid of base side 45 mm and top side 35 mm and height 55 mm. Draw the
+isometric projections of the solids.
+
+7. A rectangular pyramid of base - 40 mm x 25 mm and height 50 mm is placed centrally on a
+cylindrical slab of diameter 100 mm and thickness - 30 mm. Draw the isometric projection
+of the combination.
+
+8. A triangular prism base side 30 mm and length - 70 mm is resting on its rectangular face on
+top of a square slab side - 70 mm and 25 mm thick. Draw the isometric projection of the
+combination.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
