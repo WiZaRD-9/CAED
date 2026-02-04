@@ -67,7 +67,7 @@ of the combination.
 
 8. A triangular prism base side 30 mm and length - 70 mm is resting on its rectangular face on
 top of a square slab side - 70 mm and 25 mm thick. Draw the isometric projection of the
-combination.
+combination
 
 
 
